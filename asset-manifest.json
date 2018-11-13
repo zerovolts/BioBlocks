@@ -1,11 +1,11 @@
 {
-  "main.css": "/static/css/main.2967aa18.chunk.css",
-  "main.js": "/static/js/main.f0cdc335.chunk.js",
-  "main.css.map": "/static/css/main.2967aa18.chunk.css.map",
-  "main.js.map": "/static/js/main.f0cdc335.chunk.js.map",
-  "vendors~main.js": "/static/js/vendors~main.f8b4eb45.chunk.js",
-  "vendors~main.js.map": "/static/js/vendors~main.f8b4eb45.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
-  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
-  "index.html": "/index.html"
+  "main.css": "/bioblocks/static/css/main.2967aa18.chunk.css",
+  "main.js": "/bioblocks/static/js/main.715bc4ec.chunk.js",
+  "main.css.map": "/bioblocks/static/css/main.2967aa18.chunk.css.map",
+  "main.js.map": "/bioblocks/static/js/main.715bc4ec.chunk.js.map",
+  "vendors~main.js": "/bioblocks/static/js/vendors~main.f8b4eb45.chunk.js",
+  "vendors~main.js.map": "/bioblocks/static/js/vendors~main.f8b4eb45.chunk.js.map",
+  "runtime~main.js": "/bioblocks/static/js/runtime~main.b4e054a1.js",
+  "runtime~main.js.map": "/bioblocks/static/js/runtime~main.b4e054a1.js.map",
+  "index.html": "/bioblocks/index.html"
 }
